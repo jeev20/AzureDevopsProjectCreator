@@ -1,0 +1,1 @@
+.\AzureDevopsProjectCreator.ps1 -ProjectName "TestProject" -Description "This is a test project" -PAT "YOURPATSTRING" -organization "https://dev.azure.com/ORGANIZATION"
