@@ -3,7 +3,7 @@ This scripts creates a Azure DevOps project with required objects within the pro
 
 Usage command : ```powershell .\AzureDevopsProjectCreator.ps1 -ProjectName "TestProject" -Description "This is a test project" -PAT "YOURPATSTRING" -organization "https://dev.azure.com/ORGANIZATION" ```
 
-Read more about this in the UiPath Forum.
+Read more about this in the [UiPath Forum Post](https://forum.uipath.com/t/automating-azure-devops-project-creation/782754)
 
 ```mermaid height=559,auto
 graph LR
